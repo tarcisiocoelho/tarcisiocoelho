@@ -25,7 +25,7 @@ Da arte ao código, vivendo esse novo mundo e desbravando possibilidades. Me cha
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tarcisiocoelho_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiocoelho)](https://github.com/tarcisiocoelho/github-readme-stats)
 
 ---
 
