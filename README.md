@@ -2,7 +2,9 @@
 
 ---
 
-Da arte ao código, vivendo esse novo mundo e desbravando possibilidades. Me chamo Tarcisio, sou de Sao Paulo e atualmente estou finalizando o curso de programador fullstack pela RecodePRO. Estou me desenvolvendo e aos poucos aprendendo novas possibilidades de criar e colocar em prática. Sejam bem vindos! 🌱
+Da arte ao código, vivendo esse novo mundo e desbravando possibilidades. Me chamo Tarcisio, sou de Sao Paulo e atualmente estou finalizando o curso de programador fullstack pela RecodePRO. Estou me desenvolvendo e aos poucos aprendendo novas possibilidades de criar e colocar em prática. 
+
+Sejam bem vindos! 🌱
 
 ---
 
@@ -41,3 +43,5 @@ Da arte ao código, vivendo esse novo mundo e desbravando possibilidades. Me cha
 [twitter]: https://twitter.com/tarciscoelho/
 [instagram]: https://www.instagram.com/tarciscoelho/
 [linkedin]: https://www.linkedin.com/in/tarcisio-coelho-900437196/
+
+---
