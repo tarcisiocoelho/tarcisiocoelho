@@ -2,14 +2,6 @@
 
 ---
 
-Da arte ao código, vivendo esse novo mundo e desbravando possibilidades. 
-
-Me chamo Tarcisio, sou de São Paulo e atualmente estou finalizando o curso de programador pela <a href="https://www.recodepro.org.br/">Recode Pro</a>. Estou me desenvolvendo e aos poucos aprendendo novas aventuras para criar e colocar em prática.  
-
-Sejam bem vindos! 🌱
-
----
-
 
 ### Learning
 
